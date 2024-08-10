@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RecycloTech: Revolutionizing E-Waste Recycling with QR-Enabled Tracking and Government Incentives**
 
-- 🌱 I’m currently learning **Next.js, docker, Machine Learning, Redis**
+- 🌱 I’m currently learning **Next.js, Amazon Web Services**
 
 - 🤝 I’m looking for help with [GeoTaggers](https://github.com/Adityakale12834/GeoTaggers)
 
