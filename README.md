@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityak37234603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityak37234603" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/aditya-kale-9897121b8](https://www.linkedin.com/in/aditya-kale-9897121b8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kale-9897121b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kale" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/adityakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adityakale" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditya_k123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya_k123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya12_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya12_" height="30" width="40" /></a>
